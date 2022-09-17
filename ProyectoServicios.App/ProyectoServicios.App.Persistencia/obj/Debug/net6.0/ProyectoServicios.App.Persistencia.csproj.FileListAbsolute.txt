@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.deps.json
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.runtimeconfig.json
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.dll
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Persistencia.pdb
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Dominio.dll
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\bin\Debug\net6.0\ProyectoServicios.App.Dominio.pdb
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.dll
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\refint\ProyectoServicios.App.Persistencia.dll
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.pdb
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ProyectoServicios.App.Persistencia.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ProyectoServicios-\ProyectoServicios.App\ProyectoServicios.App.Persistencia\obj\Debug\net6.0\ref\ProyectoServicios.App.Persistencia.dll
